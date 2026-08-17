@@ -1,4 +1,4 @@
-# Eedi - Mining Misconceptions in Mathematics 🧠📐
+# Eedi - Mining Misconceptions in Mathematics
 
 This project tackles the Kaggle competition "Eedi - Mining Misconceptions in Mathematics" 🏆. The goal is to infer which misconceptions a student is likely demonstrating when answering a mathematics question incorrectly, using the question text, answer choices, and metadata such as subject and construct. This solution achieved a silver medal 🥈 in the Kaggle competition, validating the effectiveness of the embedding-based retrieval plus ensemble strategy.
 
